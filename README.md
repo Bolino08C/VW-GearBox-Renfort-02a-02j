@@ -16,8 +16,8 @@ https://www.tiktok.com/@bolino08c/video/7311028683295313184?is_from_webapp=1&sen
 Pourquoi mettre un renfort :
 ----------------------------
 Après un couple d'environ 545 Nm, 
-Les charges de contrainte sont suffisamment élevées pour faire tordre l'arbre d'entrée et le pousser vers l'extérieur vers l'embrayage. 
-Ce qui entraine une destruction rapide du carter.
+Les charges de contrainte sont suffisamment élevées pour faire tordre l'arbre d'entrée et le pousser vers l'extérieur/vers l'embrayage. 
+Ce qui entraine une destruction rapide de la boite.
 
 
 Information pour l'installation :
