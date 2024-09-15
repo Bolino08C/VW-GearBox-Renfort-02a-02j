@@ -20,12 +20,12 @@ Les charges de contrainte sont suffisamment élevées pour faire tordre l'arbre 
 Ce qui entraine une destruction rapide de la boite.
 
 
-Informations pour l'installation :
----------------------------------
+Informations pour l'installation et l'usinage :
+-----------------------------------------------
 Il faudra que tu ajuste la pièce en fonction du moulage de ta boite et de ton embrayage (petit coup de "dremel" necessaire).
 Il faut aussi que tu créé des lamages les plus petit possible, dans mon cas j'ai usiné une douille de 13mm pour qu'elle passe dans mes lamages.
 Les lamages sur le fichier sont à titre représentatif.
-
+Pour la matière, j'ai utilisé de l'AU4G.
 
 Petit bonus :
 -----------
